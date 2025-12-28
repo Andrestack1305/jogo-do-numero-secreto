@@ -1,47 +1,62 @@
-Este projeto é um jogo simples e interativo desenvolvido com HTML, CSS e JavaScript, onde o jogador deve adivinhar um número secreto gerado aleatoriamente pelo sistema.
+<h1 align="center">🎯 Jogo do Número Secreto</h1>
 
-O objetivo principal do projeto é praticar lógica de programação, manipulação do DOM e interação com o usuário por meio de entradas e mensagens dinâmicas na tela.
+<p align="center">
+  Projeto simples e interativo desenvolvido com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>,
+  onde o jogador deve adivinhar um número secreto gerado aleatoriamente.
+</p>
 
-🕹️ Como funciona
+<hr>
 
-Um número secreto é gerado aleatoriamente.
+<h2>🕹️ Como funciona</h2>
 
-O jogador insere um palpite.
+<ul>
+  <li>Um número secreto é gerado aleatoriamente pelo sistema.</li>
+  <li>O jogador insere um palpite.</li>
+  <li>O jogo informa se o número digitado é:</li>
+  <ul>
+    <li>🔼 maior que o número secreto</li>
+    <li>🔽 menor que o número secreto</li>
+    <li>🎉 ou se o jogador acertou</li>
+  </ul>
+  <li>O sistema conta o número de tentativas.</li>
+  <li>Após acertar, o jogador pode reiniciar o jogo.</li>
+</ul>
 
-O jogo informa se o número digitado é:
+<hr>
 
-maior que o número secreto
+<h2>🛠️ Tecnologias utilizadas</h2>
 
-menor que o número secreto
+<ul>
+  <li><strong>HTML5</strong> — estrutura da página</li>
+  <li><strong>CSS3</strong> — estilização e layout</li>
+  <li><strong>JavaScript</strong> — lógica do jogo, validações e interação com o usuário</li>
+</ul>
 
-ou se o jogador acertou 🎉
+<hr>
 
-O sistema conta as tentativas até o acerto.
+<h2>📚 O que foi praticado neste projeto</h2>
 
-Ao acertar, o jogador pode reiniciar o jogo.
+<ul>
+  <li>Geração de números aleatórios</li>
+  <li>Estruturas condicionais (<code>if</code>, <code>else</code>)</li>
+  <li>Funções em JavaScript</li>
+  <li>Manipulação do DOM</li>
+  <li>Validação de entrada do usuário</li>
+  <li>Controle de tentativas</li>
+</ul>
 
-🛠️ Tecnologias utilizadas
+<hr>
 
-HTML5 — estrutura da página
+<h2>🚀 Objetivo do projeto</h2>
 
-CSS3 — estilização e layout
+<p>
+  Este projeto foi desenvolvido com fins educacionais, como parte do aprendizado inicial em
+  <strong>JavaScript</strong>, reforçando conceitos fundamentais da linguagem de forma prática
+  e interativa.
+</p>
 
-JavaScript — lógica do jogo, validações e interação com o usuário
+<hr>
 
-📚 O que foi praticado neste projeto
-
-Geração de números aleatórios
-
-Estruturas condicionais (if, else)
-
-Funções em JavaScript
-
-Manipulação do DOM
-
-Validação de entrada do usuário
-
-Controle de tentativas
-
-🚀 Objetivo do projeto
-
-Este projeto foi desenvolvido com fins educacionais, como parte do aprendizado inicial em JavaScript, reforçando conceitos fundamentais da linguagem de forma prática.
+<p align="center">
+  📌 Projeto ideal para iniciantes em programação
+</p>
